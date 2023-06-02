@@ -1,5 +1,7 @@
 # ozon-masters-ml-projects
 
-Study projects, ML
+Homeworks, ML+DL
 
-some modules from scratch for basic models
+Dome modules from scratch for basic models
+
+There are implementations of LinearLayer, Dropout layer, Sigmoid in fashion-mnist-notebook.
