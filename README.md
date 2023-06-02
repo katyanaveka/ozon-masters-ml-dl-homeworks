@@ -2,6 +2,6 @@
 
 Homeworks, ML+DL
 
-Dome modules from scratch for basic models
+Some modules from scratch for knn and logistic regression.
 
-There are implementations of LinearLayer, Dropout layer, ReLU, LogSoftMax, CrossEntropy in fashion-mnist-classification.
+Implementations of LinearLayer, Dropout layer, ReLU, LogSoftMax, CrossEntropy in fashion-mnist-classification.
