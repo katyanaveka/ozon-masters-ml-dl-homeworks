@@ -2,4 +2,4 @@
 
 Study projects, ML
 
-some handmade modules for simple models
+some modules from scratch for basic models
